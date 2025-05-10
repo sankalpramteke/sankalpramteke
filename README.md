@@ -14,13 +14,16 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 B.Tech CSE (Cyber Security), GH Raisoni College, Nagpur (2022-2026)
-- 💼 AI Intern at **Edunet Foundation**, building ML-powered resume screening tools
-- 💻 Frontend Intern at **GAMFO**, worked on the *Wealth Wave* website using React
-- 🚀 Passionate about AI, security, and crafting smooth UIs
-- 🧠 Currently upskilling with **React, Firebase, Node.js, and AI APIs**
-- ⚡ Always excited to work in teams and hackathons!
+## About Me 🙋‍♂️
 
+- 🔭 I'm currently working on backend development  
+- 🌱 I'm learning new technologies like Java, Spring Boot, and cloud fundamentals
+- 🤝 I'm open to collaborating on real-world projects and hackathons
+- 🧠 Exploring cybersecurity through Capture The Flag (CTF) events and research
+- 💡 I enjoy creating intuitive and responsive UI/UX designs
+- 💬 Ask me about anything in my tech stack—I'll try my best to help!
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sankalp-ramteke-35a83224a/)
+- ⚡ Fun fact: I believe learning never ends—even outside the classroom.
 ---
 
 ### 🚀 Tech Stack
