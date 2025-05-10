@@ -1,53 +1,97 @@
-<h1 align="center">Hi 👋, I'm Sankalp Ramteke</h1>
-<h3 align="center">A passionate Frontend Developer and Cyber Security Enthusiast from India 🇮🇳</h3>
-
+<!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sankalpramteke&label=Profile%20views&color=0e75b6&style=flat" alt="sankalpramteke" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Sankalp+Ramteke;Cyber+Security+Student+%7C+Frontend+Developer;React+%7C+Tailwind+%7C+Node+%7C+AI+Intern;Hackathon+Enthusiast+%7C+Team+Player" />
+</p>
+
+<!-- Visitor Badge and Profile Stats -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sankalpramteke&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sankalpramteke?style=social" />
+  <img src="https://img.shields.io/github/stars/sankalpramteke?style=social" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **VegiScan – a vegetable recognition and shopping list app**
-- 🌱 I’m learning **React, Firebase, and AI tools**
-- 🧠 I’m exploring **AI/ML with NPTEL and Udemy**
-- 🏆 Hackathon Finalist | Cybersecurity CTF Competitor
-- ⚡ Fun fact: I love green tea 🍵 and solving logic puzzles 🧩
+
+- 🎓 B.Tech CSE (Cyber Security), GH Raisoni College, Nagpur (2022-2026)
+- 💼 AI Intern at **Edunet Foundation**, building ML-powered resume screening tools
+- 💻 Frontend Intern at **GAMFO**, worked on the *Wealth Wave* website using React
+- 🚀 Passionate about AI, security, and crafting smooth UIs
+- 🧠 Currently upskilling with **React, Firebase, Node.js, and AI APIs**
+- ⚡ Always excited to work in teams and hackathons!
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,c,cpp,firebase,nodejs,figma,linux" />
-</p>
-
----
-
-### 📈 GitHub Stats
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sankalpramteke&show_icons=true&locale=en" alt="sankalpramteke" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sankalpramteke" alt="sankalpramteke" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sankalpramteke&layout=compact" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,py,cpp,c,git,figma,mongodb,firebase,postman" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+### 🛠 Projects
 
-<p align="left">
-  <a href="https://linkedin.com/in/sankalpramteke" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin" /></a>
-  <a href="mailto:sankalpramteke@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="email" /></a>
-  <a href="https://instagram.com/sankalp.codes"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
+#### 📝 [BlogSpace – Blogging Platform](https://github.com/sankalpramteke/Blogging-Website)
+> React app with rich text editing, Appwrite auth, Vite, Redux
+
+#### 📺 [VidTube – Video App Backend](https://github.com/sankalpramteke/vidtube)
+> Node/Express backend with secure JWT authentication, MongoDB
+
+#### 💰 [WealthWave – Financial App](https://wealthwavetech.vercel.app/)
+> Live project built during internship (GAMFO), focused on responsive frontend with React
+
+---
+
+### 🏆 Achievements
+
+- 🛡 **Cyber Security Hackathon – Comp-ex' 2024**
+  - Represented GHRCE with team **Caffeine & Code**
+  - Tackled advanced CTF-style challenges using **Kali Linux**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sankalpramteke&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sankalpramteke&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sankalpramteke&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### ⚡ Recent GitHub Activity
+### 🏅 Trophies
 
-[![Sankalp's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sankalpramteke&bg_color=0d1117&color=58a6ff&line=4c8ed9&point=1abc9c&area=true&hide_border=true)](https://github.com/sankalpramteke)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sankalpramteke&theme=onedark&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
 ---
 
-> ✨ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sankalpramteke&bg_color=0d1117&color=58a6ff&line=4c8ed9&point=1abc9c&area=true&hide_border=true" />
+</p>
+
+---
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/sankalp-ramteke-35a83224a/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="mailto:sankalpramteke74@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://instagram.com/sankalp.codes"><img src="https://img.shields.io/badge/Instagram-%23E4405F?logo=instagram&style=for-the-badge&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Quote
+
+<p align="center"><i>"Push yourself, because no one else is going to do it for you."</i></p>
+
+---
+
+> ✨ Crafted with ❤️ by Sankalp Ramteke
